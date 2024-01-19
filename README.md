@@ -1,2 +1,2 @@
 # learning-python
-learning python with "Curso em video"
+em quantos dias desisto e volto às férias?
