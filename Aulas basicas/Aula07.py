@@ -17,3 +17,11 @@ print(f"The div is: {div}");
 print(f"The divInt is: {divInt}");
 print(f"The rest is: {rest}");
 print(f"The exp is: {exp}");
+
+print("\n")
+print("="*20)
+nome = str(input("Qual eh o seu nome? "))
+print(f"Prazer em te conhecer {nome:^20}!");
+print(f"Prazer em te conhecer {nome:>20}!");
+print(f"Prazer em te conhecer {nome:<20}!");
+print(f"Prazer em te conhecer {nome:=^20}!");
