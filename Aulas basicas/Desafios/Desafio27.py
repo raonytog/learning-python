@@ -1,4 +1,4 @@
-fullName = str(input('Digite o nome completo: ')).strip()
+fullName = str(input('Digite o nome completo: ')).title()
 list = fullName.split()
 listLenght = len(list)
 
