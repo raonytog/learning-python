@@ -1,4 +1,4 @@
-name = input("Digite o nome completo: ")
+name = str(input("Digite o nome completo: ")).strip()
 sizeWOWhiteSpace = len(name) - name.count(' ')
 
 lista = name.split()
