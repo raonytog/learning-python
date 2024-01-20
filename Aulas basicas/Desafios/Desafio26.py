@@ -1,4 +1,4 @@
-frase = str(input('Digite uma frase: ')).strip
+frase = str(input('Digite uma frase: ')).strip()
 size = len(frase)
 
 qttA = frase.count('A')

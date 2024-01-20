@@ -1,6 +1,6 @@
-nome = str(input('Digite o nome completo: ')).strip
+nome = (str(input('Digite o nome completo: ')).upper()).split()
 
-if (nome.find('SILVA') >= 0):
+if ('SILVA' in nome):
     print('Tem silva no nome')
 
 else:
