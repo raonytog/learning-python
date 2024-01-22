@@ -14,7 +14,6 @@
 # 37      grey            cinza          47
 # 97      white           branco         107
 
-
 print(f'Ola, \033[1;36;107mRaony\033[m!!')
 
 
