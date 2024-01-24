@@ -6,7 +6,7 @@ for i in range(0, 3):
     contI = palavras[i].count('i')
     contO = palavras[i].count('o')
     contU = palavras[i].count('u')
-    print(f'{palavras[i]} tem as vogais: ',end='')
+    print(f'{palavras[i]} tem as vogais: ', end='')
     if contA > 0:
         print('a ', end='')
 
