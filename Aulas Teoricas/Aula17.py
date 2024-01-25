@@ -1,4 +1,4 @@
-# listas
+# listas, parte 1
 print('#'*50)
 lanche = ['hamburguer', 'pizza']
 lanche.append('sorvete') # add e realoca um elemento ao vetor na ultima posicao
