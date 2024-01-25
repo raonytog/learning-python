@@ -1,3 +1,6 @@
+# a atividade foi feita da forma errada, nao como o professor pediu
+# ela deveria dizer o nome das pessoas que tenham o peso igual ao peso das variaveis
+# 'maisPesado' e 'menosPesado'. Contudo, eu ordenei a lista com base na ordem dos pesos
 
 lista = list()
 pessoas = list()
